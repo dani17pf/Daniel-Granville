@@ -1,4 +1,4 @@
-## Olá,bem-vindo ! Eu sou o Daniel Granville
+## Olá, bem-vindo ! Eu sou o Daniel Granville
  <div>
   <a href="https://github.com/dani17pf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dani17pf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
